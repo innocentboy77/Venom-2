@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50663637276"
-global.ownername = "Innocent boy"
+global.ownernomer = "50663637277"
+global.ownername = "乛 𝙎 𝙃 𝘼 𝙉 ː͢ »🤍"
 global.ytname = "innocent boy"
 global.socialm = "Github.com/innocentboy77"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Pakistan,Islamabad"
 
 global.ownernumber = '40371703005,50663637277,923477099576'  //creator number
-global.ownername = 'Innocent boy' //owner name
+global.ownername = '乛 𝙎 𝙃 𝘼 𝙉 ː͢ »🤍' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Innocent boy'
+global.packname = '乛 𝙎 𝙃 𝘼 𝙉 ː͢ »'
+global.author = '🤍'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Innocnt Tech."
 
 //theme link
-global.link = 'https://wa.me/+50663637276'
+global.link = 'https://wa.me/+50663637277'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -42,7 +42,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
